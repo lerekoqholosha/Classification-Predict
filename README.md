@@ -16,6 +16,6 @@ Predict an individual’s belief in climate change based on historical tweet dat
 
 - Save output as csv file
 
-- Author=`LerekoQholosha'
+- Author=`LerekoQholosha`
  
 - Email='lerekoqholosha9@gmail.com'
